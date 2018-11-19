@@ -10,6 +10,6 @@ the Udacity course [Version Control Using Git and Github](TODO). These
 modifications included introducing bugs and other changes into Doug’s commits he
 did not in fact create! The bugs are intended to give learners experience using
 Git to find the commit where a bug was introduced. To play the modified version
-of the game, simply open the index.html file in your web browser.
+of the game, simply open the index.html file in any of your web browser.
 
 Many thanks to Doug for creating this awesome game.
